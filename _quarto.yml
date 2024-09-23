@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Submission Material"
+  description: 
+    Project
+  site-url: "https://fhggbhjghy.github.io/STA/"
+  navbar:
+    background: primary
+    search: false 
+
+format:
+  html: 
+    theme: lux
+    toc: false
